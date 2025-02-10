@@ -1,0 +1,3 @@
+Dashboard : https://lookerstudio.google.com/s/sF-3uudWqlM
+
+Dataset : https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
